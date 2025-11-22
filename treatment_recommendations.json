@@ -1,0 +1,268 @@
+{
+  "Apple___Apple_scab": {
+    "severity": "moderate",
+    "treatment": "Apply fungicides containing captan or myclobutanil. Remove infected leaves and destroy them. Prune trees to improve air circulation.",
+    "prevention": "Plant resistant varieties. Apply preventive fungicides in early spring. Remove fallen leaves and fruit.",
+    "chemical_control": ["Captan", "Myclobutanil", "Mancozeb"],
+    "organic_control": ["Neem oil", "Sulfur-based fungicides", "Copper-based fungicides"]
+  },
+  "Apple___Black_rot": {
+    "severity": "high",
+    "treatment": "Remove and destroy infected fruit, leaves, and branches. Apply fungicides during growing season. Prune dead and diseased wood.",
+    "prevention": "Maintain tree vigor through proper fertilization. Remove mummified fruit. Apply dormant oil sprays.",
+    "chemical_control": ["Captan", "Thiophanate-methyl"],
+    "organic_control": ["Copper fungicides", "Lime sulfur"]
+  },
+  "Apple___Cedar_apple_rust": {
+    "severity": "moderate",
+    "treatment": "Apply fungicides when symptoms first appear. Remove nearby cedar trees if possible. Multiple applications may be needed.",
+    "prevention": "Plant resistant apple varieties. Remove cedar trees within 2 miles. Apply preventive fungicides in spring.",
+    "chemical_control": ["Myclobutanil", "Propiconazole"],
+    "organic_control": ["Sulfur sprays", "Neem oil"]
+  },
+  "Apple___healthy": {
+    "severity": "none",
+    "treatment": "No treatment needed. Continue regular maintenance.",
+    "prevention": "Maintain good cultural practices. Regular pruning and fertilization. Monitor for early signs of disease.",
+    "chemical_control": [],
+    "organic_control": []
+  },
+  "Blueberry___healthy": {
+    "severity": "none",
+    "treatment": "No treatment needed. Continue regular maintenance.",
+    "prevention": "Maintain proper soil pH (4.5-5.5). Ensure good drainage. Mulch to retain moisture.",
+    "chemical_control": [],
+    "organic_control": []
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "severity": "moderate",
+    "treatment": "Apply fungicides at first sign of disease. Prune infected shoots. Improve air circulation.",
+    "prevention": "Plant in full sun. Space plants properly. Apply preventive fungicides in spring.",
+    "chemical_control": ["Myclobutanil", "Propiconazole", "Sulfur"],
+    "organic_control": ["Potassium bicarbonate", "Neem oil", "Milk spray (1:9 ratio)"]
+  },
+  "Cherry_(including_sour)___healthy": {
+    "severity": "none",
+    "treatment": "No treatment needed. Continue regular maintenance.",
+    "prevention": "Regular pruning for air circulation. Proper irrigation. Monitor for pests and diseases.",
+    "chemical_control": [],
+    "organic_control": []
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "severity": "moderate",
+    "treatment": "Apply foliar fungicides when disease first appears. Remove crop debris after harvest.",
+    "prevention": "Plant resistant hybrids. Rotate crops. Avoid overhead irrigation. Till crop residue.",
+    "chemical_control": ["Azoxystrobin", "Propiconazole", "Pyraclostrobin"],
+    "organic_control": ["Copper-based fungicides", "Crop rotation"]
+  },
+  "Corn_(maize)___Common_rust_": {
+    "severity": "moderate",
+    "treatment": "Apply fungicides if disease appears before tasseling. Scout fields regularly.",
+    "prevention": "Plant resistant hybrids. Time planting to avoid high-risk periods. Good field drainage.",
+    "chemical_control": ["Azoxystrobin", "Propiconazole"],
+    "organic_control": ["Plant resistant varieties", "Proper field sanitation"]
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "severity": "high",
+    "treatment": "Apply fungicides at first sign. Multiple applications may be needed. Remove infected plant debris.",
+    "prevention": "Plant resistant hybrids. Crop rotation with non-host crops. Till residue to reduce inoculum.",
+    "chemical_control": ["Azoxystrobin", "Pyraclostrobin", "Propiconazole"],
+    "organic_control": ["Crop rotation", "Resistant varieties", "Field sanitation"]
+  },
+  "Corn_(maize)___healthy": {
+    "severity": "none",
+    "treatment": "No treatment needed. Continue regular maintenance.",
+    "prevention": "Maintain proper plant spacing. Balanced fertilization. Regular field monitoring.",
+    "chemical_control": [],
+    "organic_control": []
+  },
+  "Grape___Black_rot": {
+    "severity": "high",
+    "treatment": "Remove and destroy infected fruit and leaves. Apply fungicides from bud break through harvest.",
+    "prevention": "Prune for air circulation. Remove mummified fruit. Apply dormant sprays.",
+    "chemical_control": ["Myclobutanil", "Captan", "Mancozeb"],
+    "organic_control": ["Copper fungicides", "Lime sulfur", "Proper sanitation"]
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "severity": "high",
+    "treatment": "Remove and destroy infected vines. No effective chemical control. Prevent wound infections.",
+    "prevention": "Protect pruning wounds. Avoid stress to vines. Delay pruning until late winter.",
+    "chemical_control": ["Limited effectiveness"],
+    "organic_control": ["Wound protection", "Stress management", "Proper pruning timing"]
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "severity": "moderate",
+    "treatment": "Apply fungicides when symptoms first appear. Remove infected leaves. Improve air circulation.",
+    "prevention": "Proper canopy management. Avoid overhead irrigation. Plant resistant varieties.",
+    "chemical_control": ["Mancozeb", "Copper fungicides"],
+    "organic_control": ["Copper-based sprays", "Proper vine training"]
+  },
+  "Grape___healthy": {
+    "severity": "none",
+    "treatment": "No treatment needed. Continue regular maintenance.",
+    "prevention": "Proper pruning and training. Balanced fertilization. Regular monitoring.",
+    "chemical_control": [],
+    "organic_control": []
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "severity": "severe",
+    "treatment": "No cure available. Remove infected trees immediately. Control psyllid vectors with insecticides.",
+    "prevention": "Plant certified disease-free nursery stock. Control Asian citrus psyllid. Regular inspection.",
+    "chemical_control": ["Insecticides for psyllid control: Imidacloprid", "Thiamethoxam"],
+    "organic_control": ["Remove infected trees", "Psyllid management", "Resistant rootstocks"]
+  },
+  "Peach___Bacterial_spot": {
+    "severity": "high",
+    "treatment": "Apply copper-based bactericides. Remove severely infected leaves and branches. No complete cure.",
+    "prevention": "Plant resistant varieties. Avoid overhead irrigation. Prune for air circulation.",
+    "chemical_control": ["Copper-based bactericides", "Oxytetracycline"],
+    "organic_control": ["Copper sprays", "Resistant varieties", "Cultural practices"]
+  },
+  "Peach___healthy": {
+    "severity": "none",
+    "treatment": "No treatment needed. Continue regular maintenance.",
+    "prevention": "Proper pruning. Balanced fertilization. Regular pest and disease monitoring.",
+    "chemical_control": [],
+    "organic_control": []
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "severity": "high",
+    "treatment": "Remove and destroy infected plants. Apply copper-based bactericides. Use drip irrigation.",
+    "prevention": "Use disease-free seeds and transplants. Rotate crops. Avoid working in wet foliage.",
+    "chemical_control": ["Copper hydroxide", "Copper sulfate"],
+    "organic_control": ["Copper sprays", "Crop rotation", "Resistant varieties"]
+  },
+  "Pepper,_bell___healthy": {
+    "severity": "none",
+    "treatment": "No treatment needed. Continue regular maintenance.",
+    "prevention": "Proper spacing for air circulation. Consistent watering. Balanced fertilization.",
+    "chemical_control": [],
+    "organic_control": []
+  },
+  "Potato___Early_blight": {
+    "severity": "moderate",
+    "treatment": "Apply fungicides when first symptoms appear. Remove infected lower leaves. Maintain good air circulation.",
+    "prevention": "Rotate crops. Use certified seed. Avoid overhead irrigation. Apply mulch.",
+    "chemical_control": ["Chlorothalonil", "Mancozeb", "Azoxystrobin"],
+    "organic_control": ["Copper fungicides", "Compost tea", "Crop rotation"]
+  },
+  "Potato___Late_blight": {
+    "severity": "severe",
+    "treatment": "Apply fungicides immediately. Remove and destroy infected plants. Harvest before symptoms spread.",
+    "prevention": "Plant resistant varieties. Use certified seed. Apply preventive fungicides. Monitor weather.",
+    "chemical_control": ["Chlorothalonil", "Mancozeb", "Cymoxanil"],
+    "organic_control": ["Copper fungicides", "Remove infected plants", "Proper field drainage"]
+  },
+  "Potato___healthy": {
+    "severity": "none",
+    "treatment": "No treatment needed. Continue regular maintenance.",
+    "prevention": "Proper hilling. Consistent irrigation. Use certified seed potatoes.",
+    "chemical_control": [],
+    "organic_control": []
+  },
+  "Raspberry___healthy": {
+    "severity": "none",
+    "treatment": "No treatment needed. Continue regular maintenance.",
+    "prevention": "Prune out old canes after harvest. Maintain good air circulation. Proper irrigation.",
+    "chemical_control": [],
+    "organic_control": []
+  },
+  "Soybean___healthy": {
+    "severity": "none",
+    "treatment": "No treatment needed. Continue regular maintenance.",
+    "prevention": "Crop rotation. Use quality seed. Maintain proper plant density.",
+    "chemical_control": [],
+    "organic_control": []
+  },
+  "Squash___Powdery_mildew": {
+    "severity": "moderate",
+    "treatment": "Apply fungicides at first sign. Remove heavily infected leaves. Improve air circulation.",
+    "prevention": "Plant resistant varieties. Proper spacing. Avoid overhead watering. Full sun exposure.",
+    "chemical_control": ["Sulfur", "Potassium bicarbonate", "Myclobutanil"],
+    "organic_control": ["Milk spray", "Neem oil", "Baking soda solution"]
+  },
+  "Strawberry___Leaf_scorch": {
+    "severity": "moderate",
+    "treatment": "Remove and destroy infected leaves. Apply fungicides. Improve air circulation.",
+    "prevention": "Use disease-free plants. Proper spacing. Mulch to prevent soil splash. Drip irrigation.",
+    "chemical_control": ["Captan", "Myclobutanil"],
+    "organic_control": ["Copper fungicides", "Proper sanitation", "Resistant varieties"]
+  },
+  "Strawberry___healthy": {
+    "severity": "none",
+    "treatment": "No treatment needed. Continue regular maintenance.",
+    "prevention": "Remove old leaves in spring. Proper fertilization. Renew beds every 3-4 years.",
+    "chemical_control": [],
+    "organic_control": []
+  },
+  "Tomato___Bacterial_spot": {
+    "severity": "high",
+    "treatment": "Apply copper-based bactericides. Remove infected plants. Use drip irrigation only.",
+    "prevention": "Use certified disease-free seeds. Crop rotation. Avoid overhead watering. Stake plants.",
+    "chemical_control": ["Copper hydroxide", "Copper sulfate"],
+    "organic_control": ["Copper sprays", "Crop rotation", "Resistant varieties"]
+  },
+  "Tomato___Early_blight": {
+    "severity": "moderate",
+    "treatment": "Apply fungicides when first spots appear. Remove lower infected leaves. Mulch soil.",
+    "prevention": "Crop rotation. Stake plants. Avoid overhead irrigation. Use disease-resistant varieties.",
+    "chemical_control": ["Chlorothalonil", "Mancozeb", "Azoxystrobin"],
+    "organic_control": ["Copper fungicides", "Neem oil", "Compost tea"]
+  },
+  "Tomato___Late_blight": {
+    "severity": "severe",
+    "treatment": "Apply fungicides immediately. Remove and destroy infected plants. Act quickly to prevent spread.",
+    "prevention": "Plant resistant varieties. Proper spacing. Apply preventive fungicides. Monitor weather forecasts.",
+    "chemical_control": ["Chlorothalonil", "Mancozeb", "Cymoxanil"],
+    "organic_control": ["Copper fungicides", "Remove infected plants", "Proper drainage"]
+  },
+  "Tomato___Leaf_Mold": {
+    "severity": "moderate",
+    "treatment": "Improve air circulation. Reduce humidity. Apply fungicides. Remove infected leaves.",
+    "prevention": "Use resistant varieties. Proper spacing. Greenhouse ventilation. Avoid overhead watering.",
+    "chemical_control": ["Chlorothalonil", "Mancozeb"],
+    "organic_control": ["Sulfur sprays", "Proper ventilation", "Resistant varieties"]
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "severity": "moderate",
+    "treatment": "Apply fungicides at first sign. Remove lower infected leaves. Mulch to prevent splash.",
+    "prevention": "Crop rotation. Remove plant debris. Stake plants. Avoid overhead watering.",
+    "chemical_control": ["Chlorothalonil", "Mancozeb"],
+    "organic_control": ["Copper fungicides", "Crop rotation", "Proper mulching"]
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "severity": "moderate",
+    "treatment": "Spray with water to dislodge mites. Apply miticides. Introduce predatory mites.",
+    "prevention": "Monitor regularly. Maintain plant vigor. Avoid water stress. Use reflective mulches.",
+    "chemical_control": ["Abamectin", "Bifenthrin"],
+    "organic_control": ["Neem oil", "Insecticidal soap", "Predatory mites"]
+  },
+  "Tomato___Target_Spot": {
+    "severity": "moderate",
+    "treatment": "Apply fungicides when symptoms first appear. Remove infected leaves. Improve air circulation.",
+    "prevention": "Crop rotation. Proper spacing. Avoid overhead irrigation. Use disease-free transplants.",
+    "chemical_control": ["Chlorothalonil", "Mancozeb", "Azoxystrobin"],
+    "organic_control": ["Copper fungicides", "Crop rotation", "Mulching"]
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "severity": "high",
+    "treatment": "No cure available. Remove and destroy infected plants immediately. Disinfect tools.",
+    "prevention": "Use resistant varieties. Wash hands after smoking. Disinfect tools. Control aphids.",
+    "chemical_control": ["None effective - focus on prevention"],
+    "organic_control": ["Remove infected plants", "Resistant varieties", "Sanitation"]
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "severity": "severe",
+    "treatment": "No cure. Remove infected plants. Control whiteflies aggressively with insecticides.",
+    "prevention": "Use resistant varieties. Control whitefly vectors. Use reflective mulches. Physical barriers.",
+    "chemical_control": ["Imidacloprid", "Thiamethoxam (for whitefly control)"],
+    "organic_control": ["Remove infected plants", "Yellow sticky traps", "Resistant varieties", "Row covers"]
+  },
+  "Tomato___healthy": {
+    "severity": "none",
+    "treatment": "No treatment needed. Continue regular maintenance.",
+    "prevention": "Proper spacing. Consistent watering. Balanced fertilization. Regular monitoring.",
+    "chemical_control": [],
+    "organic_control": []
+  }
+}

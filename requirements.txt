@@ -1,0 +1,14 @@
+# Flask web framework
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# Production WSGI server
+gunicorn==21.2.0
+
+# Machine Learning & Image Processing
+tensorflow==2.15.0
+numpy==1.26.2
+Pillow==10.1.0
+
+# HTTP requests (for health checks in Docker)
+requests==2.31.0
